@@ -44,8 +44,3 @@ Enter the full path to the folder containing your images: C:\Users\YourUser\Desk
 
 4. **Done!**: The script will process the images and save a new file named Generated_Slideshow.pptx to your Desktop.
 
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
