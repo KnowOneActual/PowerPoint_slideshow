@@ -15,12 +15,12 @@ Ever been handed a flash drive with hundreds of photos moments before an event, 
 
 
 
-* **✅ Smart Image Processing**: Automatically verifies that files are valid images, skipping corrupt files or non-image documents.
-* **🔄 Auto-Rotation**: Reads camera EXIF data to correctly orient photos, so portrait shots don't end up sideways.
-* **⚡️ Optimized for Screens**: Resizes images to a maximum of 1920x1080 (Full HD), drastically reducing the final .pptx file size without sacrificing quality on screen.
-* **🎨** Standardized** Format**: Converts all images (including PNGs with transparency) to a consistent JPEG format.
-* **✨ Polished Output**: Creates a clean, 16:9 widescreen presentation with each image perfectly centered.
-* **🧹 Automatic Cleanup**: Uses a temporary folder for processing and deletes it when finished, keeping your original folder clean.
+* ** Smart Image Processing**: Automatically verifies that files are valid images, skipping corrupt files or non-image documents.
+* ** Auto-Rotation**: Reads camera EXIF data to correctly orient photos, so portrait shots don't end up sideways.
+* ** Optimized for Screens**: Resizes images to a maximum of 1920x1080 (Full HD), drastically reducing the final .pptx file size without sacrificing quality on screen.
+* ** Standardized** Format**: Converts all images (including PNGs with transparency) to a consistent JPEG format.
+* ** Polished Output**: Creates a clean, 16:9 widescreen presentation with each image perfectly centered.
+* ** Automatic Cleanup**: Uses a temporary folder for processing and deletes it when finished, keeping your original folder clean.
 
 
 ## Requirements
